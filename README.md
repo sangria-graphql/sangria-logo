@@ -1,0 +1,1 @@
+Logo of [Sangria](http://sangria-graphql.org/) project: [http://sangria-graphql.org](http://sangria-graphql.org/)
